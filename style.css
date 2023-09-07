@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+img {
+    max-width: 200px;
+}
+
+.profile {
+    margin: 20px;
+}
